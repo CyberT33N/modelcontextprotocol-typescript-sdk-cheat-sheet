@@ -230,3 +230,42 @@ server.tool("query", { sql: z.string() }, async ({ sql }) => {
 Hier:
 - Der Server nimmt SQL-Abfragen entgegen und gibt die Ergebnisse zurück.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+________
+________
+<br><br>
+
+# Debug
+
+
+
+<details><summary>Click to expand..</summary>
+
+## modelcontextprotocol/inspector
+- https://github.com/modelcontextprotocol/inspector?tab=readme-ov-file
+  
+</details>
+
+
+
+
+
+
+
+

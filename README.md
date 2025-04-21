@@ -56,6 +56,26 @@ npm install @modelcontextprotocol/sdk
 
 ### MCP-Server
 
+
+#### Build with llms
+- https://modelcontextprotocol.io/tutorials/building-mcp-with-llms
+
+```
+Preparing the documentation
+Before starting, gather the necessary documentation to help Claude understand MCP:
+
+Visit https://modelcontextprotocol.io/llms-full.txt and copy the full documentation text
+Navigate to either the MCP TypeScript SDK or Python SDK repository
+Copy the README files and other relevant documentation
+Paste these documents into your conversation with Claude
+```
+
+
+
+
+
+
+
 Ein MCP-Server ist das Herzstück der Architektur. Er stellt Ressourcen bereit, bietet Tools an und verarbeitet Anfragen von Clients.
 
 So erstellt man einen MCP-Server:
